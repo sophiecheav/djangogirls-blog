@@ -1,0 +1,45 @@
+body {
+  margin-top: 0px;
+  padding: 0px;
+}
+
+main {
+  width: 100%;
+  padding-top: 2%;
+}
+
+.titre1 {
+  background-color: #2B0504;
+  height: 110px;
+  margin-top: 0px;
+}
+
+h1 a {
+  color: #FFC857;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 7vw;
+  padding-left: 4%;
+}
+
+h2 a {
+  color: #2B0504;
+  font-family: 'Patrick Hand', cursive;
+  padding-left: 4%;
+  font-size: 4vw;
+}
+
+h1 a:hover, h2 a:hover {
+  text-decoration: none;
+  color: #972D07;
+}
+
+p {
+  color: #141414;
+  padding-left: 4%;
+}
+
+.pub {
+  font-style: italic;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
